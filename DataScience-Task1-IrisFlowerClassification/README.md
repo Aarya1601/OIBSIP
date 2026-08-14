@@ -31,7 +31,7 @@ The project uses the Iris Flower dataset, which contains measurements of Iris fl
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 ## Project Workflow
 
