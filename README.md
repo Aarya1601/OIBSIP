@@ -1,1 +1,1 @@
- Internship Projects - Data Science
+ Projects - Data Science
